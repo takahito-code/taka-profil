@@ -13,7 +13,7 @@ header {
     padding: 1rem;
     width: 100vw;
     height: 30px;
-    margin: 0px;
+    margin: 0;
     text-align: end;
 }
 
@@ -40,6 +40,7 @@ main {
     width: 100vw;   
     margin: 0 auto;
     padding: 20px;
+    
 }
 
 ul {
@@ -65,8 +66,9 @@ footer {
     padding: 1rem;
     background-color: #333;
     color: #fff;
-    width: 100%;
+    width: 100vw;
     box-sizing: border-box;
+    margin: 0;
 }
 
 img {
