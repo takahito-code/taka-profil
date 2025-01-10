@@ -139,3 +139,8 @@ footer p {
     }
 }
 
+@media (min-width: 600px) {
+    .travel {
+        padding: 0 40px 40px 40px;
+    }
+}
