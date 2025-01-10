@@ -99,6 +99,8 @@ form{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
+    justify-content: center;
+    padding-bottom: 20px;
 }
 
 .travel-pics {
